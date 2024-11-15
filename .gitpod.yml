@@ -10,8 +10,3 @@ tasks:
         sudo ./aws/install
         cd /workspace/AWS-Examples
 
-
-# AWS_ACCESS_KEY_ID=AKIAW3MD74JMASFRZ5NA
-# AWS_SECRET_ACCESS_KEY=xtFdA3shzdtScHeXXnW4K8HZKe+bWWU26M/oQeJE
-# AWS_DEFAULT_REGION=ap-south-1
-# export AWS_CLI_AUTO_PROMPT=on-partial
